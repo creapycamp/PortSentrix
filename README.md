@@ -30,6 +30,13 @@ PortSentrix automates basic TCP port scanning by attempting to establish connect
 | PyCharm | Development environment |
 | Git and GitHub | Version control and project hosting |
 
+
+## 📸 Example Screenshot
+
+Here is a sample output from PortSentrix:
+
+![PortSentrix Demo](Screenshots/portsentrix-demo.png)
+
 ## ⚙️ How It Works
 
 1. The user enters one target or multiple comma-separated targets.
